@@ -7,10 +7,9 @@ This program is meant to set for each given case (which represents a person psyc
 It is a suggested taxonomy, or grouping, for personality traits, developed from the 1980s onwards. When factor analysis (a statistical technique) is applied to personality survey data, some words used to describe aspects of personality are often applied to the same person.
 Whole explanation available in https://en.wikipedia.org/wiki/Big_Five_personality_traits
 
-!['Main traits of personality'](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Wiki-grafik_peats-de_big_five_ENG.png/800px-Wiki-grafik_peats-de_big_five_ENG.png)
 ![400px-Wiki-grafik_peats-de_big_five_ENG](https://user-images.githubusercontent.com/56207845/86517328-ba606600-bded-11ea-935d-af4e9b666b0b.png)
 
-Dataset description is the following:
+### Dataset description is the following:
     
     This data was collected (2016-2018) through an interactive on-line personality test.
     The personality test was constructed with the "Big-Five Factor Markers" from the IPIP. https://ipip.ori.org/newBigFive5broadKey.htm
