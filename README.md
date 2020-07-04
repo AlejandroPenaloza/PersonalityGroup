@@ -1,5 +1,5 @@
 # PersonalityGroup
-Based on the Big Five Personality Traits (FFM: Five-Factor Model), a Personality Group will be output for each case. 
+Based on the Big Five Personality Traits (FFM: Five-Factor Model), a Personality Group will be output for each case. M
 
 Dataset obtained from Kaggle: https://www.kaggle.com/tunguz/big-five-personality-test?
 
