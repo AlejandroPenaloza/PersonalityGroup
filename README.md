@@ -7,6 +7,8 @@ This program is meant to set for each given case (which represents a person psyc
 It is a suggested taxonomy, or grouping, for personality traits, developed from the 1980s onwards. When factor analysis (a statistical technique) is applied to personality survey data, some words used to describe aspects of personality are often applied to the same person.
 Whole explanation available in https://en.wikipedia.org/wiki/Big_Five_personality_traits
 
+!['Main traits of personality']https://github.com/AlejandroPenaloza/PersonalityGroup/issues/1#issue-650923051
+
 Dataset description is the following:
     
     This data was collected (2016-2018) through an interactive on-line personality test.
