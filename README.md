@@ -8,6 +8,7 @@ It is a suggested taxonomy, or grouping, for personality traits, developed from 
 Whole explanation available in https://en.wikipedia.org/wiki/Big_Five_personality_traits
 
 !['Main traits of personality'](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Wiki-grafik_peats-de_big_five_ENG.png/800px-Wiki-grafik_peats-de_big_five_ENG.png)
+![400px-Wiki-grafik_peats-de_big_five_ENG](https://user-images.githubusercontent.com/56207845/86517328-ba606600-bded-11ea-935d-af4e9b666b0b.png)
 
 Dataset description is the following:
     
