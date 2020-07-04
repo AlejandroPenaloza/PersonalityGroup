@@ -4,7 +4,7 @@ Based on the Big Five Personality Traits (FFM: Five-Factor Model), a Personality
 Dataset obtained from Kaggle: https://www.kaggle.com/tunguz/big-five-personality-test?
 
 This program is meant to set for each given case (which represents a person psychological test answers) a Personality Group.
-It is a suggested taxonomy, or grouping, for personality traits, developed from the 1980s onwards. When factor analysis (a statistical technique) is applied to personality survey data, some words used to describe aspects of personality are often applied to the same person.
+FFM is a suggested taxonomy, or grouping, for personality traits, developed from the 1980s onwards. When factor analysis (a statistical technique) is applied to personality survey data, some words used to describe aspects of personality are often applied to the same person.
 Whole explanation available in https://en.wikipedia.org/wiki/Big_Five_personality_traits
 
 ![400px-Wiki-grafik_peats-de_big_five_ENG](https://user-images.githubusercontent.com/56207845/86517328-ba606600-bded-11ea-935d-af4e9b666b0b.png)
