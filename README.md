@@ -81,3 +81,13 @@ Whole explanation available in https://en.wikipedia.org/wiki/Big_Five_personalit
     country     The country, determined by technical information (NOT ASKED AS A QUESTION)
     lat_appx_lots_of_err    approximate latitude of user. determined by technical information, THIS IS NOT VERY ACCURATE. Read the article "How an internet mapping glitch turned a random Kansas farm into a digital hell" https://splinternews.com/how-an-internet-mapping-glitch-turned-a-random-kansas-f-1793856052 to learn about the perils of relying on this information
     long_appx_lots_of_err   approximate longitude of user
+
+When importing the dataset, a random sample of 500000 cases was finally used for the data analysis.
+
+The code presents the following sections:
+    PersonalityGroup
+        - Importing and setting up the dataset
+        - Exploratory Data Analysis
+        - Data Preprocessing
+        - K-Means Clustering
+    
