@@ -85,6 +85,7 @@ Whole explanation available in https://en.wikipedia.org/wiki/Big_Five_personalit
 When importing the dataset, a random sample of 500000 cases was finally used for the data analysis.
 
 The code presents the following sections:
+            
     PersonalityGroup
         - Importing and setting up the dataset
         - Exploratory Data Analysis
