@@ -86,9 +86,12 @@ When importing the dataset, a random sample of 500000 cases was finally used for
 
 The code presents the following sections:
             
-    ### PersonalityGroup
+    - PersonalityGroup
         - Importing and setting up the dataset
         - Exploratory Data Analysis
         - Data Preprocessing
         - K-Means Clustering
     
+After importing the dataset and Data Wrangling of it, The program continues
+with EDA (Exploratory Data Analysis) in order to go on with Data Analysis focus and developing part.
+the program continues with  
