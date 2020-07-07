@@ -92,6 +92,7 @@ The code presents the following sections:
         - Data Preprocessing
         - K-Means Clustering
     
-After importing the dataset and Data Wrangling of it, The program continues
-with EDA (Exploratory Data Analysis) in order to go on with Data Analysis focus and developing part.
-the program continues with  
+**After importing the dataset and implementing Data Wrangling, the program continues
+with EDA (Exploratory Data Analysis) in order to go on with the Data Analysis focus and developing part.**
+.
+
