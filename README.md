@@ -93,6 +93,5 @@ The code presents the following sections:
         - K-Means Clustering
     
 **After importing the dataset and implementing Data Wrangling, the program continues
-with EDA (Exploratory Data Analysis) in order to go on with the Data Analysis focus and developing part.**
-.
-
+with EDA (Exploratory Data Analysis) in order to go on with the Data Analysis focus and developing part.
+With our dataset cleaned now will be separated into numerical data and categorical data**
