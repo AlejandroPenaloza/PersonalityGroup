@@ -100,4 +100,12 @@ With our dataset cleaned now will be separated into numerical and categorical da
 and ready to be used and fit on the ML model.**
 
 **The Unsupervised Learning algorithm K-Means is used for this model, in order to find patterns
- and establish these clusters for the data be categorized.**
+ and to define these clusters for the data be categorized.**
+
+**Later on, the goal is stablishing the optimal number of clusters so the personality traits 
+conform the best delimited classification for each case/row (person).**
+
+**THEN, THESE CLUSTERS ARE SET FOR PEOPLE TO BE STORED ACCORDING
+TO THEIR ANSWERS ON THE SURVEY (PROVIDED DATA), WHICH WERE BASED ON EACH
+ONE FROM THE BIG FIVE PERSONALITY TRAITS.**
+                                         **IT WAS DEFINED THESE GROUPS WHERE PEOPLE ARE IDENTIFIED BY THEIR PERSONALITY!**
