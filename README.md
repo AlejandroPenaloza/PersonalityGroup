@@ -94,10 +94,10 @@ The code presents the following sections:
     
 **After importing the dataset and implementing Data Wrangling, the program continues
 with EDA (Exploratory Data Analysis) in order to go on with the Data Analysis focus and developing part.
-With our dataset cleaned now will be separated into numerical and categorical data**
+With our dataset cleaned now will be separated into numerical and categorical data.**
 
 **Numerical data scaled and categorical data encoded, the final formatted dataset is built
-and ready to be used and fit on the ML model**
+and ready to be used and fit on the ML model.**
 
 **The Unsupervised Learning algorithm K-Means is used for this model, in order to find patterns
  and establish these clusters for the data be categorized.**
