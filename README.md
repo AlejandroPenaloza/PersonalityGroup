@@ -100,4 +100,4 @@ With our dataset cleaned now will be separated into numerical and categorical da
 and ready to be used and fit on the ML model**
 
 **The Unsupervised Learning algorithm K-Means is used for this model, in order to find patterns
- and establish these clusters to the data be categorized.**
+ and establish these clusters for the data be categorized.**
