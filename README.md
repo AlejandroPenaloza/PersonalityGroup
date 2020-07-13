@@ -109,4 +109,4 @@ conform the best delimited classification for each case/row (person).**
 TO THEIR ANSWERS ON THE SURVEY (PROVIDED DATA), WHICH WERE BASED ON EACH
 ONE FROM THE BIG FIVE PERSONALITY TRAITS.**
                                          
-                                         **IT WAS DEFINED THESE GROUPS WHERE PEOPLE ARE IDENTIFIED BY THEIR PERSONALITY!**
+   **IT WAS DEFINED THESE GROUPS WHERE PEOPLE ARE IDENTIFIED BY THEIR PERSONALITY!**
